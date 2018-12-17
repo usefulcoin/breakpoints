@@ -1,0 +1,12 @@
+{
+  "name": "breakpoints",
+  "version": "1.0.0",
+  "description": "HTML5UP breakpoints.min.js",
+  "keywords": [ "breakpoints", "html5" ],
+  "homepage": "http://github.com/usefulcoin/breakpoints",
+  "repository": { "type": "git",
+                  "url": "https://github.com/usefulcoin/breakpoints"
+                },
+  "license": "MIT",
+  "main": "./breakpoints.min.js"
+}
